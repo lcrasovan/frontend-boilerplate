@@ -11,7 +11,7 @@ This second command will launch BrowserSync and automatically open the UI page:
     External: http://192.168.2.54:3000
  -------------------------------------
           UI: http://localhost:3001
- UI External: http://192.168.2.54:3001
-
+    UI External: http://192.168.2.54:3001
+ -------------------------------------
 
 ## Here I will show some examples of TDD with TypeScript
