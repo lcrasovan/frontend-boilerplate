@@ -1,5 +1,4 @@
-# Erontend-boilerplate
-Angular2 Boilerplate Project
+# Angular2 Boilerplate Project with TDD
 
 ## To start just install the dependencies executing 
 
