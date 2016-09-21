@@ -13,7 +13,8 @@
     "boilerplate",
     "bootstrap",
     "sass",
-    "browser-sync"
+    "browser-sync",
+    "TDD"
   ],
   "private": true,
   "license": "UNLICENSED",
